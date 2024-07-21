@@ -1,0 +1,7 @@
+,metric,value,step
+0,Loss/val,2.4399895668029785,0.0
+0,Accuracy/val,11.133333206176758,0.0
+0,Loss/test,2.444063901901245,0.0
+0,Accuracy/test,11.350000381469727,0.0
+0,Loss/train,2.4285483360290527,0.0
+0,Accuracy/train,10.546875,0.0
